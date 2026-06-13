@@ -47,8 +47,12 @@ This Power BI dashboard provides a comprehensive analysis of Airbnb listings acr
 ---
 
 ## 📈 Dashboard Pages
+<img width="1000" height="737" alt="Screenshot 2026-06-13 223810" src="https://github.com/user-attachments/assets/8ca40281-3996-4703-a584-e4eb219dc0db" />
+
 
 ### 1️⃣ Overview Dashboard
+<img width="1003" height="745" alt="Screenshot 2026-06-13 223821" src="https://github.com/user-attachments/assets/506961c2-d39b-4713-9a79-6ce81cb776f3" />
+
 
 Key KPIs:
 - Total Listings: 280K+
